@@ -1,6 +1,6 @@
 cask "voice2text" do
   version "0.2.0"
-  sha256 "954535e649a13cd9d7782a388fc35c85246c8f1c0d60383b1d06d63a086dc2fd"
+  sha256 "81190c2692f2d42c4ce5067a5fcfd84b701b08781ee5f5a7f82d03dc0c539b0c"
 
   url "https://github.com/thobai/voice2text/releases/download/v#{version}/Voice2Text-#{version}-arm64.tar.gz"
   name "Voice2Text"
