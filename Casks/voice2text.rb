@@ -19,6 +19,12 @@ cask "voice2text" do
     Voice2Text requires Accessibility permission for the global hotkey.
     Grant it in: System Settings > Privacy & Security > Accessibility
 
+    To start:
+      open /Applications/Voice2Text.app
+
+    To run on login, add Voice2Text to:
+      System Settings > General > Login Items
+
     On first run, models will be downloaded (~2.5GB total).
 
     Usage: Hold Right Command to record, release to transcribe and paste.
